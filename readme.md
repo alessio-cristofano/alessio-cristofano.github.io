@@ -56,7 +56,7 @@ Rather than treating Data Engineering as a separate career from engineering, I f
 ### Core Competencies & Skills
 
 * **Data Engineering:** ETL/ELT Design, Medallion Architecture (Bronze/Silver/Gold), Columnar Storage Formats (Parquet).
-* **Languages & Frameworks:** Python, SQL, Polars, DuckDB, Pytest.
+* **Languages & Frameworks:** Python, SQL, PostgreSQL, Polars, DuckDB, Pytest, TypeScript, Vue, Fortran.
 * **DevOps & Tooling:** Git/GitHub, GitHub Actions (CI/CD), Makefiles, Docker foundations.
 
 ---
