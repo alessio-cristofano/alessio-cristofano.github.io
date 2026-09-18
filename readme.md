@@ -1,14 +1,20 @@
-# Alessio Cristofano | Junior Data Engineer
+# Alessio Cristofano | Data & Software Engineer
 
-Welcome to my portfolio! I am an aspiring Data Engineer transitioning from a technical background into designing robust, production-grade data pipelines. My core focus is building scalable, cost-aware data architectures using modern tools like Python, Polars, DuckDB, Terraform, and cloud-native storage.
+I build **Python-based software, data workflows, and engineering applications**, combining software development with numerical computing and data analysis.
+
+My background is in engineering R&D, where I have developed data-processing pipelines, APIs, database-backed applications, simulation tools, and automated computational workflows using Python, PostgreSQL, FastAPI/Flask, Docker, MATLAB, and Fortran.
+
+I am now focusing on Data Engineering, applying this software and engineering background to building reliable data pipelines, transforming raw data into structured datasets, and developing scalable data-driven systems.
+
+This portfolio documents that transition through end-to-end projects built with real-world datasets, from data ingestion and validation to transformation, storage, orchestration, and analytics.
 
 ---
 
-## 🚀 Featured Project: IMS Bearing Predictive Maintenance Pipeline
+## 🚀 Featured Project: Bearing Predictive Maintenance Pipeline
 
 * **Repository:** [GitHub - bearing-predictive-maintenance](https://github.com/alessio-cristofano/bearing-predictive-maintenance)
 * **Status:** Phase 1 Complete (Local Lakehouse Foundation & CI/CD Automation)
-
+* **Next Step:** Phase 2:
 ### Project Overview
 An end-to-end Medallion data engineering pipeline designed to ingest, validate, and extract features from high-frequency (20 kHz) IoT sensor telemetry. Built using the benchmark IMS Bearing dataset, this project transforms multi-gigabyte raw ASCII test-to-failure records into highly compressed, queryable analytical Parquet tables.
 
@@ -30,7 +36,7 @@ An end-to-end Medallion data engineering pipeline designed to ingest, validate, 
 * **Data Engineering:** ETL/ELT Design, Medallion Architecture (Bronze/Silver/Gold), Columnar Storage Formats (Parquet).
 * **Languages & Frameworks:** Python, SQL, Polars, DuckDB, Pytest, Ruff.
 * **DevOps & Tooling:** Git/GitHub, GitHub Actions (CI/CD), Makefiles, Docker foundations.
-* **Cloud & Infrastructure (In Progress):** AWS S3, Infrastructure as Code (Terraform), Dagster Orchestration.
+<!-- * **Cloud & Infrastructure (In Progress):** AWS S3, Infrastructure as Code (Terraform), Dagster Orchestration. -->
 
 ---
 
